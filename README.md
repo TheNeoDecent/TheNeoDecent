@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=header" alt="header">
 
-# Привет, я Ваня  
+# Привет, я Филипп  
 ### TheNeoDecent ###
 
 <img src="https://raw.githubusercontent.com/TheNeoDecent/TheNeoDecent/main/assets/hello.gif" width="80" alt="shy gif">
@@ -17,7 +17,7 @@
 
 ## <img src="https://api.iconify.design/mdi:information-outline.svg?color=%2394a3b8" width="24" align="center"> Немного обо мне
 
-Привет! Меня зовут **Ваня**, мне **14 лет**.  
+Привет! Меня зовут **Филипп**, мне **14 лет**.  
 Я разработчик приложения , делаю приложения уже 1 год и больше .
 
 ## <img src="https://api.iconify.design/mdi:code-tags.svg?color=%2394a3b8" width="24" align="center"> Чем я занимаюсь
