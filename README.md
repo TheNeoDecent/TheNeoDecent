@@ -75,7 +75,6 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNeoDecent&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TheNeoDecent&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats">
 
 </div>
 
